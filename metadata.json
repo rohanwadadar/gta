@@ -1,0 +1,8 @@
+{
+  "name": "Furfuri Grand Auto",
+  "description": "Lightweight Indian open-world multiplayer street sandbox featuring iconic Indian cartoon heroes, local vehicle customization, community-driven missions, real-time chat, and offline progress sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
